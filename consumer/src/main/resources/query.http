@@ -1,0 +1,10 @@
+POST http://localhost:8080/test
+Content-Type: application/json
+
+{
+  "id": 1488,
+  "documentName": "xyu",
+  "documentType": "xyu",
+  "documentText": "xyu",
+  "year": 2021
+}
